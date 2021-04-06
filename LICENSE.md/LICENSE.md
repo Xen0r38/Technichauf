@@ -1,0 +1,1 @@
+J'ai  les droits d'exploitation des images dans ces documents, cependant, vous ne pouvez les utiliser dans d'autres projets, car ce ne sont pas les miennes, certaines proviennent de sites de fournisseurs!
