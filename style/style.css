@@ -1,0 +1,128 @@
+
+/*affichage des titres */
+
+.titre {
+
+  font-size: 2em;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.fichesFournisseursTitre {
+
+  font-size: 1.5em;
+  color: grey;
+}
+
+/* Images du site */
+
+#logoTechnichauf {
+
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-bottom: 15px;
+   box-shadow: 10px 10px 10px #989c9e;
+}
+
+#Granulé {
+
+  width: 60%;
+  height: 400px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#OkofënChaud {
+
+  width: 13.5%;
+  margin-left: 20%;
+}
+
+.imagesGalerie {
+
+  width: 13.5%;
+  margin-left: 2%;
+}
+
+/* Menu de navigation */
+nav {
+
+   font-size: 1.5em;
+   border-top: 1px #bf3b32 double;
+   border-bottom: 1px #59b7ff double;
+   margin-left:20%;
+   margin-right: 20%;
+   margin-bottom: 1%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-left: 50px;
+}
+
+/* Affichage des liens*/
+.lien {
+
+  text-decoration: none;
+  color: black;
+}
+
+.lien:hover {
+
+  text-decoration: none;
+  color: #c71b08;
+}
+
+/* Affichage des liens soulignés*/
+.lienSoulignés {
+
+  color:black;
+}
+
+.lienSoulignés:hover {
+
+  text-decoration: none;
+  color: #c71b08;
+}
+
+/* Affichage texte*/
+
+.text {
+
+  text-align: center;
+  line-height: 1.7em;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.text2 {
+
+  font-size: 1.2em;
+  line-height:1.7em;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+}
+
+.elementsGras {
+
+  font-weight: bold;
+}
+
+/* Délimitation texte descriptif et fournisseurs */
+
+.decoration {
+
+  border-top: 1px #bf3b32 solid;
+  border-bottom: 1px #59b7ff solid;
+  margin-left: 20%;
+  margin-right: 19.5%;
+  margin-bottom: 20px;
+  padding: 1px;
+}
+
+/* Footer */
+
+footer {
+
+  margin-left: 20%;
+  font-size: 1.5em;
+}
