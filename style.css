@@ -1,50 +1,121 @@
 
-/*affichage des titres */
+.container {
 
-.titre {
-
-  font-size: 2em;
   margin-left: 20%;
   margin-right: 20%;
 }
 
-.fichesFournisseursTitre {
-
-  font-size: 1.5em;
-  color: grey;
-}
 
 /* Images du site */
-
 #logoTechnichauf {
 
-   margin-left: 20%;
-   margin-right: 20%;
-   margin-bottom: 15px;
-   box-shadow: 10px 10px 10px #989c9e;
+  width: 50%;
+  margin-right: 33.6%;
+  margin-bottom: 15px;
+  box-shadow: 10px 10px 10px #989c9e;
 }
 
-#Granulé {
+#logoRge {
 
-  width: 60%;
-  height: 400px;
-  margin-left: 20%;
-  margin-right: 20%;
-}
-
-#OkofënChaud {
-
-  width: 13.5%;
-  margin-left: 20%;
+  float: right;
 }
 
 .imagesGalerie {
 
-  width: 13.5%;
-  margin-left: 2%;
+  width: 23.5%;
+  margin-left: 1.6%;
 }
 
-/* Menu de navigation */
+/* Affichage des liens*/
+.lien {
+
+  text-decoration: none;
+  color: #5688c4;
+}
+
+.lien:hover {
+
+  text-decoration: none;
+  color: #c71b08;
+}
+
+.lienNav {
+
+  text-decoration: none;
+  color:black;
+}
+
+.lienNav:hover {
+
+  text-decoration: none;
+  color: #c71b08;
+}
+
+/* Affichage texte*/
+
+.titre {
+
+  font-size: 1.8em;
+}
+
+.text {
+
+  text-align: center;
+  line-height: 1.7em;
+}
+
+.text2 {
+
+  font-size: 1.2em;
+  line-height:1.7em;
+  margin-top: 2%;
+}
+
+.elementsGras {
+
+  font-weight: bold;
+}
+
+/* Formulaire contact */
+
+.champsObligatoires {
+
+  color: #838383;
+}
+
+.formulaireText {
+
+  font-size: 1.2em;
+  line-height: 1.7em;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+input, textarea {
+
+  font-size: 0.7em;
+  width: 140%;
+  float: left;
+}
+
+#sendButton {
+
+  width: 100%;
+}
+
+/* Bordures */
+
+.decoration {
+
+  border-top: 1px #bf3b32 solid;
+  border-bottom: 1px #59b7ff solid;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 20px;
+  padding: 1px;
+}
+
 nav {
 
    font-size: 1.5em;
@@ -57,69 +128,6 @@ nav {
    padding-bottom: 15px;
    padding-left: 50px;
 }
-
-/* Affichage des liens*/
-.lien {
-
-  text-decoration: none;
-  color: black;
-}
-
-.lien:hover {
-
-  text-decoration: none;
-  color: #c71b08;
-}
-
-/* Affichage des liens soulignés*/
-.lienSoulignés {
-
-  color:black;
-}
-
-.lienSoulignés:hover {
-
-  text-decoration: none;
-  color: #c71b08;
-}
-
-/* Affichage texte*/
-
-.text {
-
-  text-align: center;
-  line-height: 1.7em;
-  margin-left: 20%;
-  margin-right: 20%;
-}
-
-.text2 {
-
-  font-size: 1.2em;
-  line-height:1.7em;
-  margin-left: 20%;
-  margin-right: 20%;
-  margin-top: 2%;
-}
-
-.elementsGras {
-
-  font-weight: bold;
-}
-
-/* Délimitation texte descriptif et fournisseurs */
-
-.decoration {
-
-  border-top: 1px #bf3b32 solid;
-  border-bottom: 1px #59b7ff solid;
-  margin-left: 20%;
-  margin-right: 19.5%;
-  margin-bottom: 20px;
-  padding: 1px;
-}
-
-/* Footer */
 
 footer {
 
