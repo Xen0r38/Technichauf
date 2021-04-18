@@ -97,6 +97,7 @@ input, textarea {
   font-size: 0.7em;
   width: 140%;
   float: left;
+  border: 1px grey solid;
 }
 
 #sendButton {
